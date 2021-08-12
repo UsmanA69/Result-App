@@ -8,7 +8,7 @@ function result() {
         ali: {
             Maths: 56,
             Physics: 24,
-            Copmuter: 78,
+            Computer: 78,
         },
         imran: {
             Maths: 68,
